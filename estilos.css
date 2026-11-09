@@ -1,0 +1,16 @@
+header{
+    background-color: #0047AB;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;}
+#titulo-principal{
+    text-align: center;
+    color: white;}
+main{
+    background-color: #D3D3D3; 
+    border: 2px solid #333;
+    margin: 40px;
+    border-radius: 8px;}
+.apartados{
+    margin: 20px;
+    color:#0047AB;
+    font-size: large;}
